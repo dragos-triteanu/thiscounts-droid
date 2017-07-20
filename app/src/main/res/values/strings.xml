@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Thiscounts</string>
+    <string name="thumbnail">Thumbs up!</string>
+    <string name="drawerOpen">Open!</string>
+    <string name="drawerClose">Close!</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="text_web_dev">Text View Dev</string>
+    <string name="text_e_commerce">Text E Commerce</string>
+    <string name="discountsTabTxt">Discounts</string>
+    <string name="purchasesTabTxt">Purchases</string>
+    <string name="nearMeTabTxt">Near me</string>
+</resources>
